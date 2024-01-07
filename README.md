@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Afsha Shaikh Mulani</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h1 align="center">Hi 👋, Afsha Shaikh Mulani</h1>
+<h3 align="center">Fresher</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/001/314/391/small/young-woman-working-on-laptop-at-home-free-vector.jpg">
 
 - 🌱 I’m currently learning **Machine Learning,cloud computing**
