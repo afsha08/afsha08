@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, Afsha Shaikh Mulani</h1>
+<h1 align="center">Afsha Shaikh Mulani</h1>
 <h3 align="center">Fresher</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/001/314/391/small/young-woman-working-on-laptop-at-home-free-vector.jpg">
 
-- 🌱 I’m currently learning **Machine Learning,cloud computing**
+- 🌱 I’m currently Learning Python full stack with Data Analytics
 
-- 💬 Ask me about **python,java,html,css,java script**
+- 💬 Ask me about **python,react,html,css,java script**
 
 - 📫 How to reach me **afshashaikh081@gmail.com**
 
